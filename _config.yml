@@ -1,4 +1,14 @@
-name: JabsLabs
+name: Bruno Gomes
+description: Coder Thoughts
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
+
 markdown: redcarpet
-pygments: true
-baseurl: 
+highlighter: pygments
+logo: true
+paginate: 15
+baseurl: /
+domain_name: 'http://brunojabs.github.io'
+
+# Details for the RSS feed generator
+url:            'http://brunojabs.github.io'
+author:         'Bruno Gomes'
