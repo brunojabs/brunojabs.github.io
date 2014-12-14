@@ -1,8 +1,10 @@
-name: @BrunoJabs
+name: "@BrunoJabs"
 description: Coder Thoughts
 meta_description: "Pensamentos a respeito do mundo de software"
 
 markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
 highlighter: pygments
 logo: true
 paginate: 15
